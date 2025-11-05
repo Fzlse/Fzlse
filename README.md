@@ -62,30 +62,10 @@ If you like this profile README, feel free to fork and adapt.
 ---
 
 ### 🚀 What I’m working on
-- Split server & client into separate repos and CI workflows.
-- Clean `GameManager`, `SaveSystem`, and `LeaderboardPanelController` into modular components.
-- Unity client ↔ REST server integration via `UnityWebRequest` with robust fallbacks.
-- Local + remote save architecture (offline-first).
+- Making AI Behavior in 3D Turn Based tactical games
 
 ---
 
-### 🧪 Quickstart (Server)
-```bash
-git clone https://github.com/FzLse/REST-API-ProjectAvatar
-cd REST-API-ProjectAvatar
-dotnet restore
-dotnet run
-# Swagger should be available at https://localhost:5001/swagger (adjust to your Kestrel config)
-```
-
-### 🧩 Quickstart (Unity Client)
-```
-git clone https://github.com/FzLse/ProjectAvatar
-# Open in Unity (2022.3 LTS recommended)
-# Set BASE_URL of the API if needed, then Play
-```
-
----
 
 ### 📊 Stats
 <p align="center">
