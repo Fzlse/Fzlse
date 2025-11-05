@@ -5,7 +5,7 @@ If you like this profile README, feel free to fork and adapt.
 <h1 align="center">Hi, I'm Andra — <span title="a.k.a. FzLse">@FzLse</span> 👋</h1>
 <p align="center">
   <b>Game Technology student • Unity/C# developer • Backend tinkerer</b><br/>
-  <i>"Unleash Creativity, Elevate Experiences Instantly."</i>
+  <i>"KeepMoving"</i>
 </p>
 
 <p align="center">
@@ -14,14 +14,21 @@ If you like this profile README, feel free to fork and adapt.
   <a href="https://github.com/FzLse?tab=repositories&sort=stargazers"><img alt="Total Stars" src="https://img.shields.io/github/stars/FzLse?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=22c55e"></a>
 </p>
 
+<p align="center">
+  <!-- Social / Portfolio -->
+  <a href="https://itch.io/"><img alt="itch.io" src="https://img.shields.io/badge/itch.io-portfolio-FA5C5C?logo=itchdotio&logoColor=white"></a>
+  <a href="https://instagram.com/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-follow-DB2777?logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/"><img alt="X (Twitter)" src="https://img.shields.io/badge/X%20(Twitter)-say%20hi-000000?logo=x&logoColor=white"></a>
+  <a href="mailto:hello@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-contact-2563EB?logo=gmail&logoColor=white"></a>
+</p>
+
 ---
 
 ### 👩‍💻 About me
-- 🎮 Building small games and prototypes with **Unity (C#)**, dabbling in **C++/raylib**, and wiring up **REST APIs** with **.NET 8**.
-- 🧩 Interests: game systems, AI/behavior, networking, and clean gameplay architecture.
+- 🎮 Building small games and prototypes with **Unity (C#)**
+- 🧩 Interests: gamedev
 - 🌱 Currently polishing **ProjectAvatar** (endless runner + REST leaderboard/saves).
-- 🤝 Open to collaborate on Unity tooling, gameplay systems, or student projects.
-- 💬 Ping me about Unity architecture, save/leaderboard design, and .NET minimal APIs.
 
 ---
 
@@ -44,9 +51,11 @@ If you like this profile README, feel free to fork and adapt.
 |---|---|---|
 | [**ProjectAvatar**](https://github.com/FzLse/ProjectAvatar) | Endless runner + local leaderboard; moving toward full REST saves/leaderboard. | Unity, C# |
 | [**REST-API-ProjectAvatar**](https://github.com/FzLse/REST-API-ProjectAvatar) | Minimal API (.NET 8 + SQLite). Endpoints: submit score/top N, upload/download saves. | .NET, C#, EF Core |
-| [**TURN-BASE-RPG-RAYLIB**](https://github.com/FzLse/TURN-BASE-RPG-RAYLIB) | Turn‑based RPG prototype in C++ with raylib. | C++, raylib |
-| [**Belajar-Catur**](https://github.com/FzLse/Belajar-Catur) | Chess learning experiments / playground. | C++ |
-| [**Chat-Program-TCP-IP-KELOMPOK-1**](https://github.com/FzLse/Chat-Program-TCP-IP-KELOMPOK-1) | TCP chat app (client/server). | C#, .NET |
+| [**TURN-BASE-RPG-RAYLIB**](https://github.com/FzLse/TURN-BASE-RPG-RAYLIB) | Turn-based RPG prototype in C++ with raylib. | C++, raylib |
+| [**Ber-Ingin**](https://github.com/detayuli/Ber-Ingin) | 2D Side-Scroller Game in unity . | C#|
+| [**Bikend**](https://github.com/Syafiqqand/Biken) | 3D Turn-Based Tactical game . | C#|
+
+
 
 > More on the repos above: issues, milestones, and docs are actively being organized.
 
@@ -90,10 +99,10 @@ git clone https://github.com/FzLse/ProjectAvatar
 ---
 
 ### 📫 Reach me
-- GitHub: **@FzLse**  
-- (Optional) Add your itch.io / email / LinkedIn here
-
-> Tip: Keep contact info minimal on a public profile. Consider a dedicated contact form or masks for privacy.
+- Itch.io: → `https://fzlse.itch.io/`
+- Instagram:  → `https://www.instagram.com/andraaaa.r56/`
+- LinkedIn:  → `https://www.linkedin.com/in/muhammad-andra-ramadhani-334694357/`
+- Email:  → `andratml3@gmail.com`
 
 ---
 
