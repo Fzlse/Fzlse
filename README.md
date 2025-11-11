@@ -12,6 +12,8 @@ If you like this profile README, feel free to fork and adapt.
   <a href="https://github.com/FzLse?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/FzLse?style=flat&color=0ea5e9"></a>
   <a href="https://github.com/FzLse"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=FzLse&style=flat&color=8b5cf6"></a>
   <a href="https://github.com/FzLse?tab=repositories&sort=stargazers"><img alt="Total Stars" src="https://img.shields.io/github/stars/FzLse?affiliations=OWNER%2CCOLLABORATOR&style=flat&color=22c55e"></a>
+  <a href="https://fzlse.github.io/" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/-🌐%20Portfolio%20Website-38bdf8?style=for-the-badge"></a>
 </p>
 
 
