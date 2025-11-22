@@ -2,7 +2,7 @@
 If you like this profile README, feel free to fork and adapt.
 -->
 
-<h1 align="center">Hi, I'm Andra — <span title="a.k.a. FzLse">@FzLse</span> 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Andra Ramadhani — <span title="a.k.a. FzLse">@FzLse</span> 👋</h1>
 <p align="center">
   <b>Game Technology student • Unity/C# developer •</b><br/>
   <i>"KeepMoving"</i>
