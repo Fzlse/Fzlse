@@ -23,7 +23,7 @@ If you like this profile README, feel free to fork and adapt.
 ### 👩‍💻 About me
 - 🎮 Building small games and prototypes with **Unity (C#)**
 - 🧩 Interests: gamedev
-- 🌱 Currently polishing **ProjectAvatar** (endless runner + REST leaderboard/saves).
+- 🌱 Currently polishing **Bijkend** (3D TacticalTurnBased. Focusing to Make a unit behavior).
 
 ---
 
