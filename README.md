@@ -2,7 +2,7 @@
 If you like this profile README, feel free to fork and adapt.
 -->
 
-<h1 align="center">Hi, I'm Muhammad Andra Ramadhani — <span title="a.k.a. FzLse">@FzLse</span> 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Andra Ramadhani — <span title="a.k.a. FzLse">@FzLse</span> </h1>
 <p align="center">
   <b>Game Technology student • Unity/C# developer •</b><br/>
   <i>"KeepMoving"</i>
@@ -20,10 +20,10 @@ If you like this profile README, feel free to fork and adapt.
 
 ---
 
-### 👩‍💻 About me
-- 🎮 Building small games and prototypes with **Unity (C#)**
-- 🧩 Interests: gamedev
-- 🌱 Currently polishing **Bijkend** (3D TacticalTurnBased. Focusing to Make a unit behavior).
+### About me
+- Building small games and prototypes with **Unity (C#)**
+- Interests: gamedev
+- Currently polishing **Bijkend** (3D TacticalTurnBased. Focusing to Make a unit behavior).
 
 ---
 
@@ -67,4 +67,4 @@ If you like this profile README, feel free to fork and adapt.
 
 ---
 
-<sub>Last updated: <!--DATE-->🤍</sub>
+
